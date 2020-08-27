@@ -1,5 +1,8 @@
 # Amazon-Alexa
-Algumas funções desenvolvidas para facilitar a minha vida.<br>
-<br>
-#Ponto Mais - https://pontomais.com.br/<br>
-Alexa, bater ponto
+
+Algumas funções desenvolvidas para facilitar a minha vida.
+
+  - [Ponto Mais]
+    Alexa, bater ponto
+
+   [Ponto Mais]: <https://www.pontomais.com.br>
