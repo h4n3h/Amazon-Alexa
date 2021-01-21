@@ -3,4 +3,6 @@
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="7"><a href="https://www.pontomais.com.br">Ponto Mais</a><br>
 Alexa, bater ponto</li>
+<li class="has-line-data" data-line-start="4" data-line-end="7"><a href="https://www.pontomais.com.br">Spotify - Shuffle Mode</a><br>
+(Adicionar IFTTT a sua rotina)</li>
 </ul>
